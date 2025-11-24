@@ -57,5 +57,9 @@ ESP32 → MQTT → Node-RED → InfluxDB → Grafana
    - Use this workflow to demonstrate a full IoT pipeline from the ESP32 all the way to a live dashboard in Grafana.
 
 ## Screenshots
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a4aed5be-a5db-40cd-954f-da7b9406561c" />
 
-## Short Demo Video (60–90s)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/016257a7-e58b-43bf-a634-6fe6bdaa79ce" />
+
+## Short Demo Video
+
