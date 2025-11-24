@@ -62,4 +62,5 @@ ESP32 → MQTT → Node-RED → InfluxDB → Grafana
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/016257a7-e58b-43bf-a634-6fe6bdaa79ce" />
 
 ## Short Demo Video
+https://youtu.be/WzRftMC2v1U
 
